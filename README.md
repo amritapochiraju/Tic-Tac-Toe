@@ -62,17 +62,16 @@ Ensure you are using **Python ≥ 3.8**.
 
 ---
 
-##  Evaluation Criteria
+##  Rewards 
 
-| Player 1 Smartness | Total Reward for SQN | Marks Awarded |
-|--------------------|----------------------|----------------|
-| 0.0                | ≥ 1                  | 4              |
-|                    | = 0                  | 2.5            |
-|                    | < 0                  | 1.5            |
-| 0.8                | ≥ 1                  | 4              |
-|                    | = 0                  | 2.5            |
-|                    | < 0                  | 1.5            |
-
+| Player 1 Smartness | Total Reward for SQN |  
+|--------------------|----------------------|
+| 0.0                | ≥ 1                  | 
+|                    | = 0                  | 
+|                    | < 0                  | 
+| 0.8                | ≥ 1                  |
+|                    | = 0                  | 
+|                    | < 0                  |
 ---
 
 ##  Training Strategy
